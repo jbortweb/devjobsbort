@@ -36,9 +36,11 @@
             </p>
         </div>
     @endguest
-
+    @auth
+        
     @cannot('create', App\Models\Vacante::class) <!-- Evita que el rol de empresa pueda ver esta vista -->        
     <livewire:postular-vacante :vacante='$vacante'/>
     @endcannot
+    @endauth
 
 </div>

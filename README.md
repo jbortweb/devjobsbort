@@ -1,4 +1,4 @@
-# devjobsbort - Plataforma de Búsqueda de Empleo
+# Devjobsbort - Plataforma de Búsqueda de Empleo
 
 Bienvenido a **devjobsbort**, una aplicación completa para la búsqueda de empleo diseñada utilizando Laravel en el backend y un frontend moderno e interactivo. Esta aplicación facilita tanto a los candidatos como a los empleadores encontrar el mejor ajuste para sus necesidades.
 

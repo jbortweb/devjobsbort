@@ -54,6 +54,6 @@ php artisan db:seed
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-# #📞 Contacto
+## 📞 Contacto
 
-puedes contactarme directamente a través de GitHub.
+Puedes contactarme directamente a través de GitHub.

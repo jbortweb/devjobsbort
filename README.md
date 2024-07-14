@@ -50,8 +50,10 @@ php artisan migrate
 # Opcional: Sembrar la base de datos
 php artisan db:seed
 ```
-##📄 Licencia
+## 📄 Licencia
+
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-##📞 Contacto
+# #📞 Contacto
+
 puedes contactarme directamente a través de GitHub.
